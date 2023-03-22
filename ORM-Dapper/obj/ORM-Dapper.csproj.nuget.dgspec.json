@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jayhu\\OneDrive\\Desktop\\Repository's\\ORM-and-Dapper-Exercise\\ORM-Dapper\\ORM-Dapper.csproj": {}
+    "C:\\Users\\jayhu\\OneDrive\\Desktop\\Repository's\\Module 6\\ORM-and-Dapper-Exercise\\ORM-Dapper\\ORM-Dapper.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jayhu\\OneDrive\\Desktop\\Repository's\\ORM-and-Dapper-Exercise\\ORM-Dapper\\ORM-Dapper.csproj": {
+    "C:\\Users\\jayhu\\OneDrive\\Desktop\\Repository's\\Module 6\\ORM-and-Dapper-Exercise\\ORM-Dapper\\ORM-Dapper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jayhu\\OneDrive\\Desktop\\Repository's\\ORM-and-Dapper-Exercise\\ORM-Dapper\\ORM-Dapper.csproj",
+        "projectUniqueName": "C:\\Users\\jayhu\\OneDrive\\Desktop\\Repository's\\Module 6\\ORM-and-Dapper-Exercise\\ORM-Dapper\\ORM-Dapper.csproj",
         "projectName": "ORM-Dapper",
-        "projectPath": "C:\\Users\\jayhu\\OneDrive\\Desktop\\Repository's\\ORM-and-Dapper-Exercise\\ORM-Dapper\\ORM-Dapper.csproj",
+        "projectPath": "C:\\Users\\jayhu\\OneDrive\\Desktop\\Repository's\\Module 6\\ORM-and-Dapper-Exercise\\ORM-Dapper\\ORM-Dapper.csproj",
         "packagesPath": "C:\\Users\\jayhu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jayhu\\OneDrive\\Desktop\\Repository's\\ORM-and-Dapper-Exercise\\ORM-Dapper\\obj\\",
+        "outputPath": "C:\\Users\\jayhu\\OneDrive\\Desktop\\Repository's\\Module 6\\ORM-and-Dapper-Exercise\\ORM-Dapper\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jayhu\\AppData\\Roaming\\NuGet\\NuGet.Config",
